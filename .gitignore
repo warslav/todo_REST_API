@@ -1,0 +1,8 @@
+.vs/
+backend/bin/
+backend/env/
+backend/backend.pyproj
+backend/backend.sln
+.idea/
+__pycache__/
+*.pyc
